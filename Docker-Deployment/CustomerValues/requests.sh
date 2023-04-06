@@ -1,0 +1,12 @@
+#! /bin/bash
+
+# host=$1
+# data_folder=$2
+# data_file=$3
+
+function pull_requests() {
+
+curl -X POST http://localhost:$1/predict -d @./$2/$3 -H "Content-Type: application/json"
+} 
+
+pull_requests $1 $2 $3

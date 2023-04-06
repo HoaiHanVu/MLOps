@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+scikit-learn
+lightgbm==3.3.2

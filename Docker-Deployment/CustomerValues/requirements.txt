@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+scikit-learn
+xgboost==1.6.1
