@@ -1,4 +1,4 @@
-# Predictive Machine Learning Model Deployment using Docker and FastAPI
+# Deploying Predictive Machine Learning Model with Docker, FastAPI, Docker Compose and Locust
 ## Introduction
 This repository provides a comprehensive solution for deploying a predictive machine learning model using Docker, FastAPI, Docker Compose, and Locust. It enables to understand the limitations of servers and test their performance under realistic production conditions.
 ## Features
