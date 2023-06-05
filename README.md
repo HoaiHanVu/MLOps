@@ -1,6 +1,6 @@
 # Predictive Machine Learning Model Deployment using Docker and FastAPI
 ## Introduction
-This repository demonstrates a streamlined approach to deploy a predictive machine learning model using Docker and FastAPI. By following the instructions provided, you will be able to containerize the model and create a FastAPI for real-time predictions.
+This repository demonstrates a streamlined approach to deploy a predictive machine learning model using Docker and FastAPI. By following the instructions provided, the model was containerized and create a FastAPI for real-time predictions.
 ## Features
 - Docker: The project utilizes Docker to ensure seamless deployment across different environments, eliminating dependency issues and simplifying the setup process.
 - FastAPI: FastAPI is a high-performance web framework for building APIs in Python. It enables rapid development and effortless integration with the machine learning model.
